@@ -1,0 +1,38 @@
+.container-main {
+  background-image: url("../images/bg-image.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+}
+
+.container-main > h1 {
+  font-style: normal;
+  padding-top: 10px;
+}
+
+.container-main > .login {
+  height: 350px;
+  width: 500px;
+  background-color: whitesmoke;
+  margin: auto;
+  opacity: 0.9;
+  margin-top: 100px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 40px;
+}
+
+.container-main > .login > input {
+  margin-bottom: 20px;
+}
+
+.container-main > .login > label {
+  font-weight: bold;
+}
+
+.container-main > .login > .register {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
