@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/url-shortener-fe/static/css/main.adacce1b.chunk.css",
-    "main.js": "/url-shortener-fe/static/js/main.ea0201bc.chunk.js",
-    "main.js.map": "/url-shortener-fe/static/js/main.ea0201bc.chunk.js.map",
+    "main.css": "/url-shortener-fe/static/css/main.2f709f18.chunk.css",
+    "main.js": "/url-shortener-fe/static/js/main.c8607d61.chunk.js",
+    "main.js.map": "/url-shortener-fe/static/js/main.c8607d61.chunk.js.map",
     "runtime-main.js": "/url-shortener-fe/static/js/runtime-main.ed29780d.js",
     "runtime-main.js.map": "/url-shortener-fe/static/js/runtime-main.ed29780d.js.map",
     "static/js/2.acd70123.chunk.js": "/url-shortener-fe/static/js/2.acd70123.chunk.js",
     "static/js/2.acd70123.chunk.js.map": "/url-shortener-fe/static/js/2.acd70123.chunk.js.map",
     "index.html": "/url-shortener-fe/index.html",
-    "static/css/main.adacce1b.chunk.css.map": "/url-shortener-fe/static/css/main.adacce1b.chunk.css.map",
+    "static/css/main.2f709f18.chunk.css.map": "/url-shortener-fe/static/css/main.2f709f18.chunk.css.map",
     "static/js/2.acd70123.chunk.js.LICENSE.txt": "/url-shortener-fe/static/js/2.acd70123.chunk.js.LICENSE.txt",
     "static/media/UpdatePass.css": "/url-shortener-fe/static/media/bg-image.0dc3ec52.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ed29780d.js",
     "static/js/2.acd70123.chunk.js",
-    "static/css/main.adacce1b.chunk.css",
-    "static/js/main.ea0201bc.chunk.js"
+    "static/css/main.2f709f18.chunk.css",
+    "static/js/main.c8607d61.chunk.js"
   ]
 }
