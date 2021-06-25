@@ -1,9 +1,10 @@
-.home {
-  background: "#3498db" !important;
+#home {
+  background-color: #fdcb6e !important;
   padding: 10px;
   color: black;
-  height: 780px;
+  height: 100vh !important;
 }
+
 .header {
   display: flex;
   align-items: center;
@@ -26,6 +27,7 @@ button:focus {
 }
 
 table {
+  background-color: white !important;
   margin-top: 30px;
 }
 

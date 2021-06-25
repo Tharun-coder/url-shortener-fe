@@ -35,7 +35,7 @@ function Home() {
   };
 
   return (
-    <div className="container-fluid home">
+    <div className="container-fluid" id="home">
       <div className="row header">
         <div className="col-lg-8">
           <h1>URL Shortener makes life ease</h1>
